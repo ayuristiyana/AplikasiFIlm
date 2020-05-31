@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Aplikasi Film</string>
+    <string name="id_film">ID Film</string>
+    <string name="judulFilm">Judul Film</string>
+    <string name="tgl_rilis">Tanggal Rilis</string>
+    <string name="poster">Ilustrasi Poster</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="pemain">Pemain</string>
+    <string name="penulis">Penulis</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="link">Link Trailer</string>
+    <string name="tambah">Tambah Film</string>
+    <string name="edit">Edit Film</string>
+    <string name="hapus">Hapus Film</string>
+    <string name="bagikan">Bagikan Film</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_film">Data Film</string>
+    <string name="pilih_tgl">Pilih</string>
+    <string name="todo" />
+</resources>
